@@ -1,0 +1,11 @@
+X [ERROR] Expected "}" but found ":"
+
+    vite.config.js:64:6:
+      64 │       : [])
+         │       ^
+         ╵       }
+
+[31mfailed to load config from C:\Users\Lenovo\Documents\final project\pharmapro\vite.config.js[39m
+[2m1:59:13 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.js:64:6: ERROR: Expected "}" but found ":"
+[2m1:59:13 PM[22m [31m[1m[vite][22m[39m server restart failed
