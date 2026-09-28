@@ -1,6 +1,6 @@
 {
   "appId": "com.pharmapro.app",
-  "appName": "PharmaPro",
+  "appName": "صيدليتك",
   "webDir": "dist",
   "server": {
     "androidScheme": "https"
